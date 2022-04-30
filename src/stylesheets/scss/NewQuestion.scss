@@ -1,0 +1,6 @@
+@import "./variables.scss";
+@import "./mixins.scss";
+
+.new-question {
+  @include flex-justify-align-center;
+}

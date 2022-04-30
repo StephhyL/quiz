@@ -1,0 +1,11 @@
+@import "./variables.scss";
+@import "./mixins.scss";
+
+.profile {
+  @include flex-justify-align-center;
+  .profile-nav {
+    div {
+      margin: 2rem;
+    }
+  }
+}

@@ -1,0 +1,6 @@
+@import "./variables.scss";
+@import "./mixins.scss";
+
+.thankyou {
+  @include flex-justify-align-center;
+}

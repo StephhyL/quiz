@@ -1,0 +1,11 @@
+@import "./variables.scss";
+@import "./mixins.scss";
+
+.lab-input {
+  // border: 2px red solid;
+  width: 50%;
+  margin: 1rem;
+  input {
+    width: 100%;
+  }
+}
